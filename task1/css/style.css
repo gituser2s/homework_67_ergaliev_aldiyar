@@ -1,0 +1,10 @@
+.message{
+    background: aquamarine;
+    border: 1px solid black;
+    width: 250px;
+    position: relative;
+    left: 1100px;
+    bottom: 10px;
+    text-align: center;
+    display: flex;
+}
