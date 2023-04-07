@@ -1,0 +1,25 @@
+*{
+    font-family: Arial;
+}
+
+body{
+    background-color: #252829;
+}
+
+.container{
+    background-color: #2E323B;
+}
+
+.Characters{
+    background-color: #44494C;
+    width: 600px;
+    color: white;
+    padding: 20px 20px;
+    margin: 20px 20px;
+}
+
+.Title{
+    color:white;
+    font-size: 100px;
+    text-align: center;
+}
